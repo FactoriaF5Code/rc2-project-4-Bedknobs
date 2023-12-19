@@ -1,9 +1,13 @@
 import './App.css'
+import {Header} from '../components/Header'
+import {Films} from '../components/Films'
 
 function App() {
   return (
     <>
-      <p>Proyecto 4 - Clon de Filmin</p>
+      <Header/>
+
+      <Films/>
     </>
   )
 }

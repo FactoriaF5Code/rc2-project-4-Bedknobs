@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Catamaran";
+  src: url("../fonts/Catamaran-VariableFont_wght.ttf");
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 3vw;
+}
+
+.leftHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 32%;
+}
+
+.leftHeader img {
+  width: 5vw;
+  height: 2.5vw;
+}
+
+p {
+  margin-top: 1.3vw;
+  color: #ffffff;
+  font-family: "Catamaran", Helvetica;
+  font-weight: bold;
+  font-size: 0.85vw;
+}
+
+.rightHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5vh;
+  width: 20%;
+}
+
+.suscribeButton {
+  padding: 0.2vw 0.8vw;
+  font-weight: bolder;
+  font-size: 0.9vw;
+  font-family: "Catamaran", Helvetica;
+  background-color: #00ffa1;
+  border: none;
+  border-radius: 5px;
+}
+
+.sesionButton {
+  padding: 0.2vw 0.8vw;
+  font-weight: bolder;
+  font-size: 0.9vw;
+  font-family: "Catamaran", Helvetica;
+  color: #ffffff;
+  border-radius: 5px;
+  border: solid 2px #ffffff;
+}
+
+.rightHeader img {
+  width: 1.6vw;
+}
