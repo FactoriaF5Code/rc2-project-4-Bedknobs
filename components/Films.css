@@ -1,0 +1,11 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: auto 1.55vw;
+}
+
+img {
+    width: 14vw;
+    margin: 1vw;
+}

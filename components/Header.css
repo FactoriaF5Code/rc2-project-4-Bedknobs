@@ -13,16 +13,17 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 32%;
+  width: 35%;
 }
 
 .leftHeader img {
-  width: 5vw;
-  height: 2.5vw;
+  width: 6vw;
+  height: 3vw;
+  margin-right: 0;
 }
 
 p {
-  margin-top: 1.3vw;
+  margin-top: 0.5vw;
   color: #ffffff;
   font-family: "Catamaran", Helvetica;
   font-weight: bold;
@@ -34,7 +35,7 @@ p {
   justify-content: space-between;
   align-items: center;
   margin-top: 0.5vh;
-  width: 20%;
+  width: 22%;
 }
 
 .suscribeButton {
@@ -59,4 +60,5 @@ p {
 
 .rightHeader img {
   width: 1.6vw;
+  margin-left: 0;
 }
