@@ -1,0 +1,403 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+      "genre_ids": [
+        80,
+        18,
+        36
+      ],
+      "id": 466420,
+      "original_language": "en",
+      "original_title": "Killers of the Flower Moon",
+      "overview": "Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.",
+      "popularity": 1323.647,
+      "poster_path": "/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg",
+      "release_date": "2023-10-18",
+      "title": "Los asesinos de la luna",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 1443
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ixhr0YVs0Du0fPIYQSYYOIf3j0R.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 854648,
+      "original_language": "en",
+      "original_title": "Robot Apocalypse",
+      "overview": "Cuando la hacker experta Tara intenta detener a una inteligencia artificial inteligente y poderosa. a medida que se hace cargo de las fuerzas armadas del mundo, la A.I. la marca como una terrorista que debe ser exterminada.",
+      "popularity": 692.968,
+      "poster_path": "/zpbgktIR7GkOS83PBAzLlzLSQ5W.jpg",
+      "release_date": "2021-07-26",
+      "title": "Robot Apocalypse",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 62
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 897087,
+      "original_language": "en",
+      "original_title": "Freelance",
+      "overview": "Mason Petit (John Cena) es un soldado retirado de las fuerzas especiales que, tras años de paz, tranquilidad y monotonía, decide abandonar su aburrido retiro en los suburbios para volver al trabajo y proteger a la periodista (Alison Brie) mientras entrevista a un cruel dictador (Juan Pablo Raba). En mitad de la entrevista, estallará un golpe militar que hará peligrar sus vidas y les llevará a esconderse en la selva donde deberán emplearse a fondo para sobrevivir.",
+      "popularity": 1243.624,
+      "poster_path": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+      "release_date": "2023-01-05",
+      "title": "Freelance",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 315
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bmlkLCjrIWnnZzdAQ4uNPG9JFdj.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "id": 787699,
+      "original_language": "en",
+      "original_title": "Wonka",
+      "overview": "Basada en el personaje que protagoniza \"Charlie y la fábrica de chocolate\", el libro infantil más emblemático de Roald Dahl y uno de los más vendidos de todos los tiempos, \"Wonka\" cuenta la historia de cómo el mayor inventor, mago y chocolatero del mundo se convirtió en el querido Willy Wonka que conocemos hoy en día.",
+      "popularity": 1119.142,
+      "poster_path": "/x6p5jZw7YwqBadiKBDzmXs03Emz.jpg",
+      "release_date": "2023-12-06",
+      "title": "Wonka",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 275
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        10402,
+        14,
+        35
+      ],
+      "id": 901362,
+      "original_language": "en",
+      "original_title": "Trolls Band Together",
+      "overview": "Cuando Floyd, uno de los hermanos de Branch, es secuestrado por una pareja de maléficas estrellas del pop para aprovecharse de su talento musical, Branch y Poppy tendrán que embarcarse en un viaje tan aterrador como emotivo para reunir a la familia y rescatar a Floyd de un destino aún peor que el desolador olvido de los fans.",
+      "popularity": 968.8,
+      "poster_path": "/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg",
+      "release_date": "2023-10-12",
+      "title": "Trolls 3: Todos juntos",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 369
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tLsc8SCFO0rMVgVyNm9XtfnyX84.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        53,
+        878
+      ],
+      "id": 726209,
+      "original_language": "en",
+      "original_title": "Leave the World Behind",
+      "overview": "Las vacaciones de una familia en una casa de lujo dan un giro inquietante cuando un ciberataque anula sus dispositivos... y dos desconocidos llaman a la puerta.",
+      "popularity": 879.694,
+      "poster_path": "/mZoRTMQa2l5uWBpf6l3wQJHmrFE.jpg",
+      "release_date": "2023-11-22",
+      "title": "Dejar el mundo atrás",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 806
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 1075794,
+      "original_language": "en",
+      "original_title": "Leo",
+      "overview": "Leo (Sandler) es un lagarto de 74 años que lleva atrapado en el mismo aula de Florida durante décadas con su compañera de terrario, una tortuga (Bill Burr). Cuando se entera de que solo le queda un año de vida, Leo planea escapar para experimentar la vida en el exterior, pero entonces comienzan sus problemas.",
+      "popularity": 899.34,
+      "poster_path": "/hs41WYhEuaq4PaBbtaoCfGFEebi.jpg",
+      "release_date": "2023-11-17",
+      "title": "Leo",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 584
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AucuqDaUW4z1oT5XyL71qwRY2F6.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 983507,
+      "original_language": "no",
+      "original_title": "Meg, deg & Frank",
+      "overview": "Christian conoce a Sigrid a través de una aplicación de citas. Congenian rápidamente, pero solo hay un problema: Christian vive con Frank, un hombre que se disfraza y actúa constantemente como un perro.",
+      "popularity": 780.142,
+      "poster_path": "/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg",
+      "release_date": "2022-06-03",
+      "title": "Good Boy",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 106
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jVFeUR259RcW57mzhqJogV3QnLa.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 656156,
+      "original_language": "ko",
+      "original_title": "보호자",
+      "overview": "Tras 10 años de encarcelamiento en nombre de su jefe, todo lo que Su-hyuk quiere es una vida normal, que espera que incluya a su antigua novia, Min-seo, y a su hija, In-bi. Mientras tanto, en algún momento de la última década, su jefe ha adoptado un aire de legitimidad. Ahora, la antigua banda roba y asesina con la excusa del desarrollo urbano. Y quieren que el reticente Su-hyuk esté a bordo.",
+      "popularity": 823.253,
+      "poster_path": "/j2amu8zA4l6hKWSkbhDQVbfoDMr.jpg",
+      "release_date": "2023-08-15",
+      "title": "Un hombre de razón",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 670292,
+      "original_language": "en",
+      "original_title": "The Creator",
+      "overview": "Descrito como un thriller postapocalíptico que involucra un futuro impactado por una guerra entre humanos e IA.",
+      "popularity": 724.409,
+      "poster_path": "/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg",
+      "release_date": "2023-09-27",
+      "title": "The Creator",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1465
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "popularity": 836.976,
+      "poster_path": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+      "release_date": "2023-07-19",
+      "title": "Oppenheimer",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 5441
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 507089,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's",
+      "overview": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
+      "popularity": 668.805,
+      "poster_path": "/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+      "release_date": "2023-10-25",
+      "title": "Five Nights at Freddy's",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 2859
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sxmazOtNWi6IiZ1QqG0wkliHzgA.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 762079,
+      "original_language": "fr",
+      "original_title": "Le Calendrier",
+      "overview": "Eva, una antigua bailarina, vive postrada en una silla de ruedas sin poder caminar. Su monótona vida cambia cuando su amiga Sophie le regala un antiguo calendario de adviento para recibir la Navidad, un objeto de madera que tiene poderes mágicos: cada ventanita que abre contiene una sorpresa que provoca repercusiones en la vida real, algunas buenas, pero la mayoría malas.",
+      "popularity": 723.15,
+      "poster_path": "/7hdmRrilVZdgiMbjg1XyqzUyRzc.jpg",
+      "release_date": "2021-12-01",
+      "title": "El calendario de Adviento",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 237
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rb3QQ2TQfJoCpCZlfXBlBbzYy1D.jpg",
+      "genre_ids": [
+        53,
+        28
+      ],
+      "id": 844416,
+      "original_language": "en",
+      "original_title": "Rumble Through the Dark",
+      "overview": "Ambientado en el oscuro paisaje del delta del Mississippi, donde un ex luchador a puño limpio debe ganar una última pelea para pagar sus deudas con el jefe de la mafia local y salvar el hogar de su infancia; lo que está en juego es nada menos que vida o muerte.",
+      "popularity": 701.8,
+      "poster_path": "/8luiMBqBu4qRRFtj1995rjPIcM5.jpg",
+      "release_date": "2023-11-03",
+      "title": "Retumbar a través de la oscuridad",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 23
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 385687,
+      "original_language": "en",
+      "original_title": "Fast X",
+      "overview": "Dom Toretto y su familia se convierten en el objetivo del vengativo hijo del capo de las drogas Hernán Reyes.",
+      "popularity": 681.59,
+      "poster_path": "/qDRrP4NATGTWH8ORJV6T0BeoIhQ.jpg",
+      "release_date": "2023-05-17",
+      "title": "Fast & Furious X",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4473
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uOvcyJ3XmUv4geypGvZBeZEFMO6.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 945937,
+      "original_language": "en",
+      "original_title": "Fast Charlie",
+      "overview": "Charlie Swift (Pierce Brosnan), ha trabajado para el veterano jefe de la mafia Stan (James Caan) durante veinte años, operando hábilmente como un implacable profesional y eficiente asesino a sueldo. Cuando un jefe rival elimina a Stan y a todo su equipo, siendo Charlie el único superviviente, este decide vengar a su amigo sin detenerse ante nada.",
+      "popularity": 682.109,
+      "poster_path": "/3y72ffwYRUPOj4yOQbiTaN897Tm.jpg",
+      "release_date": "2023-12-08",
+      "title": "Fast Charlie",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a21obwG9qMSf1qa6oG4ZgpOyMaA.jpg",
+      "genre_ids": [
+        16,
+        28,
+        10751,
+        35
+      ],
+      "id": 870358,
+      "original_language": "en",
+      "original_title": "Merry Little Batman",
+      "overview": "Damian Wayne quiere ser un superhéroe como su padre, Bruce Wayne, más conocido como Batman. Cuando la Liga de la Justicia reclama a Batman para salvar al mundo, Damian, quien se ha quedado sólo en Gotham, descubre el plan malvado del Joker, Bane, Hiedra Venenosa y más villanos para robar la Navidad.",
+      "popularity": 515.812,
+      "poster_path": "/55EctBjIeTsCK6QGtja9cddKL78.jpg",
+      "release_date": "2023-12-08",
+      "title": "Feliz Mini-Bat-Navidad",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 62
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sERD1155J1cJyXug1QwlA0fa354.jpg",
+      "genre_ids": [
+        14
+      ],
+      "id": 995906,
+      "original_language": "en",
+      "original_title": "Galaxy Games",
+      "overview": "Un grupo de jóvenes son enviados a un planeta lejano para competir en los prestigiosos juegos Sol Invictus. Cuando ocurre un desastre y los equipos quedan varados sin equipo ni comunicación, deben trabajar juntos para sobrevivir el tiempo suficiente para ser rescatados.",
+      "popularity": 683.757,
+      "poster_path": "/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg",
+      "release_date": "2022-07-04",
+      "title": "Galaxy Games",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jhpsTzbXEu5bkCPmBqxv7vUTjIT.jpg",
+      "genre_ids": [
+        14,
+        12,
+        878,
+        28
+      ],
+      "id": 566810,
+      "original_language": "en",
+      "original_title": "Dragon Kingdom",
+      "overview": "Para salvar su reino de un ejército de muertos vivientes, un grupo de guerreros debe viajar a través de las tierras prohibidas luchando contra las temibles bestias que llaman al Reino Oscuro su hogar.",
+      "popularity": 620.372,
+      "poster_path": "/tP1RNlRlnNwy4KG8TFN37tKRUVr.jpg",
+      "release_date": "2018-11-26",
+      "title": "El reino del dragón",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h3X1YZXNeklLNKRVOS6DHGRosog.jpg",
+      "genre_ids": [
+        27,
+        35,
+        14
+      ],
+      "id": 287903,
+      "original_language": "en",
+      "original_title": "Krampus",
+      "overview": "El espíritu de la Navidad simboliza la unión familiar y en la generosidad, pero cuando Max ve que su familia se resquebraja pierde la fe en estos valores. Esto despertará la ira del Krampus, un ser mitológico que acecha al niño y a sus parientes para atormentarles las fiestas y hacerles vivir un infierno. Para enfrentarse al Krampus y salvar la vida, Max y los suyos tendrán que dejar a un lado sus diferencias y unir sus fuerzas contra el monstruo.",
+      "popularity": 541.897,
+      "poster_path": "/ylhJfwokavPDC0BPVe5IcM9WdSZ.jpg",
+      "release_date": "2015-11-26",
+      "title": "Krampus: Maldita Navidad",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 1979
+    }
+  ],
+  "total_pages": 41524,
+  "total_results": 830475
+}
