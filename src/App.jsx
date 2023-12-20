@@ -1,15 +1,18 @@
-import './App.css'
-import {Header} from '../components/Header'
-import {Movies} from '../components/Films'
+import "./App.css";
+import { Header } from "../components/Header";
+import { Movies } from "../components/Movies";
+import { Slider } from "../components/Slider";
 
 function App() {
   return (
     <>
-      <Header/>
+      <Header />
 
-      <Movies/>
+      <Slider />
+
+      <Movies />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

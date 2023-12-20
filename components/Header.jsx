@@ -1,9 +1,31 @@
 import "./Header.css";
+import "../src/App";
+// eslint-disable-next-line no-unused-vars
+import React, { useEffect, useState } from "react";
+
 export const Header = () => {
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const isScrolled = window.scrollY > 0;
+      if (isScrolled !== scrolled) {
+        setScrolled(isScrolled);
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [scrolled]);
   return (
-    <header>
+    <header className={`header ${scrolled ? "scrolled" : ""}`}>
       <section className="leftHeader">
-        <img src="../img/LogoFilmin.png" alt="Logo de Filmin" />
+        <a href="App">
+          <img src="../img/LogoFilmin.png" alt="Logo de Filmin" />
+        </a>
         <p>Inicio</p>
         <p>Películas</p>
         <p>Series</p>

@@ -1,33 +1,44 @@
-@font-face {
-  font-family: "Catamaran";
-  src: url("../fonts/Catamaran-VariableFont_wght.ttf");
-}
-
 header {
   display: flex;
   justify-content: space-between;
-  margin: 0 3vw;
+  margin: 0;
+  padding: 0 3vw;
+  transition: background-color 0.35s ease;
+  width: 100%;
+  height: 4vw;
+}
+
+.header.scrolled {
+  background-color: #060613;
 }
 
 .leftHeader {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 35%;
+  width: 38%;
+  background: none;
 }
 
 .leftHeader img {
   width: 6vw;
   height: 3vw;
   margin-right: 0;
+  background: none;
 }
 
-p {
-  margin-top: 0.5vw;
+.leftHeader a {
+  background: none;
+}
+
+.leftHeader p {
+  margin-top: 0.3vw;
   color: #ffffff;
   font-family: "Catamaran", Helvetica;
   font-weight: bold;
-  font-size: 0.85vw;
+  font-size: 0.95vw;
+  cursor: pointer;
+  background: none;
 }
 
 .rightHeader {
@@ -35,7 +46,8 @@ p {
   justify-content: space-between;
   align-items: center;
   margin-top: 0.5vh;
-  width: 22%;
+  width: 26%;
+  background: none;
 }
 
 .suscribeButton {
@@ -46,6 +58,7 @@ p {
   background-color: #00ffa1;
   border: none;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .sesionButton {
@@ -56,9 +69,14 @@ p {
   color: #ffffff;
   border-radius: 5px;
   border: solid 2px #ffffff;
+  cursor: pointer;
+  background: none;
 }
 
 .rightHeader img {
   width: 1.6vw;
   margin-left: 0;
+  margin-right: 7vw;
+  cursor: pointer;
+  background: none;
 }
