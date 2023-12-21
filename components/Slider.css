@@ -1,0 +1,45 @@
+.sliderContainer {
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+.sliderText {
+  position: absolute;
+  top: 12vw;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  z-index: 1;
+  background: none;
+  width: 40%;
+}
+
+.sliderText h4,
+.sliderText p {
+  background: none;
+  color: #fff;
+}
+
+.sliderText h4 {
+  font-size: 2.5vw;
+  font-family: "Catamaran", Helvetica;
+}
+
+.sliderText p {
+  font-size: 1.4vw;
+  font-family: "Catamaran", Helvetica;
+}
+
+.slider {
+  display: flex;
+  transition: transform 4s ease-in-out;
+  min-width: 100vw;
+}
+
+.slider img {
+  min-width: 100vw;
+  height: 35vw;
+  object-fit: cover;
+  opacity: 35%;
+  margin: 0;
+}
