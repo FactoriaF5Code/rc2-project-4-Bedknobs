@@ -46,9 +46,9 @@ ul {
 }
 
 .movies:hover {
-  -webkit-box-shadow: 0px 0px 15px -4px rgba(242,242,242,1);
-  -moz-box-shadow: 0px 0px 15px -4px rgba(242,242,242,1);
-  box-shadow: 0px 0px 15px -4px rgba(242,242,242,1);
+  -webkit-box-shadow: 0px 0px 15px -4px rgba(242, 242, 242, 1);
+  -moz-box-shadow: 0px 0px 15px -4px rgba(242, 242, 242, 1);
+  box-shadow: 0px 0px 15px -4px rgba(242, 242, 242, 1);
 }
 
 .moviesSlider {

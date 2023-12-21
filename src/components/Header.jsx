@@ -1,6 +1,5 @@
 import "./Header.css";
-// eslint-disable-next-line no-unused-vars
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 export const Header = () => {
   const [scrolled, setScrolled] = useState(false);
@@ -22,8 +21,8 @@ export const Header = () => {
   return (
     <header className={`header ${scrolled ? "scrolled" : ""}`}>
       <section className="leftHeader">
-        <a href='../index.html'>
-          <img src="../img/LogoFilmin.png" alt="Logo de Filmin" />
+        <a href="../index.html">
+          <img src="../src/img/LogoFilmin.png" alt="Logo de Filmin" />
         </a>
         <p>Inicio</p>
         <p>Películas</p>
@@ -35,7 +34,7 @@ export const Header = () => {
       <section className="rightHeader">
         <button className="suscribeButton">SUSCRÍBETE</button>
         <button className="sesionButton">INICIAR SESIÓN</button>
-        <img src="../img/icons/search.png" alt="Icono de búsqueda" />
+        <img src="../src/img/icons/search.png" alt="Icono de búsqueda" />
       </section>
     </header>
   );

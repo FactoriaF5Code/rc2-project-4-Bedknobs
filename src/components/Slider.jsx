@@ -1,5 +1,5 @@
 import "./Slider.css";
-import posters from "../src/data/data.json";
+import posters from "../data/data.json";
 import { Poster } from "./Poster";
 // eslint-disable-next-line no-unused-vars
 import React, { useState, useEffect } from "react";
