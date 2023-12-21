@@ -1,5 +1,4 @@
 import "./Header.css";
-import "../src/App";
 // eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from "react";
 
@@ -23,7 +22,7 @@ export const Header = () => {
   return (
     <header className={`header ${scrolled ? "scrolled" : ""}`}>
       <section className="leftHeader">
-        <a href="App">
+        <a href='../index.html'>
           <img src="../img/LogoFilmin.png" alt="Logo de Filmin" />
         </a>
         <p>Inicio</p>
