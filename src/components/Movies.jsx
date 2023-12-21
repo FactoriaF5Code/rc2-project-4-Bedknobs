@@ -15,7 +15,7 @@ export function Movies() {
     setCurrentIndexByGenre((prevIndex) => ({
       ...prevIndex,
       [genreId]:
-        (prevIndex[genreId] + direction + moviesByGenre[genreId].length) %
+        (prevIndex[genreId] + direction + (moviesByGenre[genreId].length) - 9) %
         moviesByGenre[genreId].length,
     }));
   };
